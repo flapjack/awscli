@@ -8,7 +8,7 @@ Requires Python
 
 e.g.
 #### packages
-- `python` - awscli needs the python cookbook and for python (and pip) to be installed
+- `python` - awscli needs the [python cookbook](http://community.opscode.com/cookbooks/python) and for python (and pip) to be installed
 
 Usage
 -----
